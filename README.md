@@ -1,11 +1,3 @@
-<!-- PROFILE README: Mrityun-G -->
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Mrityun-G/Mrityun-G/output/github-contribution-grid-snake-dark.svg"
-    alt="Animated GitHub contribution snake"
-    width="100%"
-  />
-</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:36BCF7&height=220&section=header&text=Mrityunjai%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=17&descAlignY=58" width="100%" alt="Animated profile banner"/>
