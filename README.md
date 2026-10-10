@@ -140,7 +140,7 @@ A dam-break inundation modelling project focused on flood prediction and evacuat
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrityun-G&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Mrityun-G&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Mrityun-G"/>
 
 </div>
 ## 🌱 Open Source Journey
