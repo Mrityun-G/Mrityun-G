@@ -157,9 +157,6 @@ Flood inundation modelling and evacuation decision-support research.
 <img width="70%" src="https://streak-stats.demolab.com?user=Mrityun-G&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 <br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mrityun-G&bg_color=0d1117&color=22d3ee&line=db2777&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph"/>
-
 </div>
 
 ---
