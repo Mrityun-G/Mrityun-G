@@ -143,19 +143,6 @@ A dam-break inundation modelling project focused on flood prediction and evacuat
 <img src="https://streak-stats.demolab.com?user=Mrityun-G&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
-
----
-
-## 🐍 Contribution Graph Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mrityun-G/Mrityun-G/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
-
-</div>
-
----
-
 ## 🌱 Open Source Journey
 
 I'm developing my open-source skills by learning to collaborate with maintainers and contribute meaningful improvements.
