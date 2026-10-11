@@ -5,10 +5,8 @@
 
 <a href="https://github.com/Mrityun-G">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=Building+projects+that+solve+real+problems;Exploring+Artificial+Intelligence+%26+Machine+Learning;Developing+full-stack+applications;Learning+Java+DSA+and+open-source+development" alt="Animated introduction"/>
-</a>
-
+</a
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=Mrityun-G&style=for-the-badge&color=DB2777&label=PROFILE+VIEWS" alt="Profile views"/>
 <a href="https://github.com/Mrityun-G?tab=followers"><img src="https://img.shields.io/github/followers/Mrityun-G?style=for-the-badge&color=06B6D4&logo=github&label=FOLLOWERS" alt="Followers"/></a>
 
@@ -18,8 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mrityunjai G**, a software engineering student interested in building practical software and exploring intelligent systems.
-
+I'm **Mrityunjai G** - A ML Student
 - 🤖 Exploring AI, machine learning, and automation
 - 🌐 Building full-stack applications and backend APIs
 - 👁️ Experimenting with computer vision
